@@ -1,0 +1,3 @@
+/home/santosh/MPIExercise/MonteCarlo/build/CMakeFiles/rebuild_cache.dir
+/home/santosh/MPIExercise/MonteCarlo/build/CMakeFiles/edit_cache.dir
+/home/santosh/MPIExercise/MonteCarlo/build/CMakeFiles/monteCarloMpi.dir
