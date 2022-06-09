@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wl,-Bsymbolic-functions CMakeFiles/treeSum.dir/treeSum.cpp.o  -o treeSum  /usr/lib/x86_64-linux-gnu/libmpichcxx.so /usr/lib/x86_64-linux-gnu/libmpich.so 

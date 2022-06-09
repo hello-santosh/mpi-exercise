@@ -1,0 +1,3 @@
+/home/santosh/MPIExercise/treeStruc/build/CMakeFiles/rebuild_cache.dir
+/home/santosh/MPIExercise/treeStruc/build/CMakeFiles/edit_cache.dir
+/home/santosh/MPIExercise/treeStruc/build/CMakeFiles/treeSum.dir
