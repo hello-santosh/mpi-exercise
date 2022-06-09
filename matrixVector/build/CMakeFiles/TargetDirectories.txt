@@ -1,0 +1,3 @@
+/home/santosh/MPIExercise/matrixVector/build/CMakeFiles/rebuild_cache.dir
+/home/santosh/MPIExercise/matrixVector/build/CMakeFiles/edit_cache.dir
+/home/santosh/MPIExercise/matrixVector/build/CMakeFiles/matrixVector.dir
